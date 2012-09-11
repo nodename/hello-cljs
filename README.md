@@ -1,6 +1,7 @@
 # hello-cljs
 
 This is the first example program from ClojureScript Up and Running by Stuart Sierra and Luke Vanderhart.
+It is set up as a leiningen and Counterclockwise project (see @cemerick's video: http://www.youtube.com/watch?v=VVd4ow-ZcX0)
 
 ## Usage
 
